@@ -4,6 +4,7 @@ NEW FAST CLONING COMMANDS FULLY UPDATED COMMAND
 
 # COMMANDS
 ````
+👿 apt update && apt upgrade -y
 
 😈 pkg install python
 
