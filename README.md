@@ -13,8 +13,7 @@ NEW FAST CLONING COMMANDS FULLY UPDATED COMMAND
 
 😈 pip install requests mechanize bs4
 
-😈 git clone
-https://github.com/Hunter-alamin/FB-CRACK
+😈 git clone https://github.com/Hunter-alamin/FB-CRACK
 
 😈 cd FB-CRACK
 
