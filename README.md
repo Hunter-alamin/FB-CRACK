@@ -11,7 +11,7 @@ NEW FAST CLONING COMMANDS FULLY UPDATED COMMAND
 
 😈 pkg install git
 
-😈 pip install requests mechanize
+😈 pip install requests mechanize bs4
 
 😈 git clone
 https://github.com/Hunter-alamin/FB-CRACK
