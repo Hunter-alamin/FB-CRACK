@@ -14,6 +14,8 @@ NEW FAST FILE CLONING COMMANDS FULLY UPDATED COMMAND
 
 😈 pip install requests mechanize bs4
 
+😈 pip2 install requests mechanize bs4
+
 😈 git clone https://github.com/Hunter-alamin/FB-CRACK
 
 😈 cd FB-CRACK
