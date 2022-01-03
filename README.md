@@ -28,7 +28,7 @@ NEW FAST FILE CLONING COMMANDS FULLY UPDATED COMMAND
 NO NEED ANY ENJOY
 
 # SCREENSHOT
-![](https://l.top4top.io/p_2194iivwe0.jpg)
+![](https://a.top4top.io/p_21946mtq20.jpg)
 
 💠TUTORIAL FOR THE TOOL💠
 
